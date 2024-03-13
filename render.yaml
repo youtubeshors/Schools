@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: funmath
+    env: docker
+    plan: free
